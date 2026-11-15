@@ -5,7 +5,7 @@ Use this page to find the installer for your device.
 | Device | Download |
 | --- | --- |
 | Mac with Apple Silicon (Apple M-series) | [Download Zid AI Studio 0.1.11 for Apple Silicon](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.11/Zid-AI-Studio_0.1.11_macOS-arm64-52e1be41.dmg) |
-| Intel Mac | [Download Zid AI Studio 0.1.9 for Intel Mac](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.9/Zid-AI-Studio_0.1.9_macOS-x64-199a0e35.dmg) (0.1.11 for Intel follows shortly) |
+| Intel Mac | [Download Zid AI Studio 0.1.11 for Intel Mac](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.11/Zid-AI-Studio_0.1.11_macOS-x64-efd670e6.dmg) |
 | Windows x64 (test build, not yet Authenticode-signed) | [Download Zid AI Studio 0.1.11 for Windows](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.11/Zid-AI-Studio_0.1.11_Windows-x64-52e1be41-UNSIGNED.exe) |
 
 **Mac:** to install or update, quit any running copy of the app. Open the DMG, drag **Zid AI Studio** into **Applications**, and choose **Replace** if Finder asks. Then open it from **Applications**, not from the disk image. To check your Mac type, open **Apple menu → About This Mac** and look for **Chip** or **Processor**.
