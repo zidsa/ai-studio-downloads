@@ -4,9 +4,9 @@ Use this page to find the installer for your device.
 
 | Device | Download |
 | --- | --- |
-| Mac with Apple Silicon (Apple M-series) | [Download Zid AI Studio 0.1.19 for Apple Silicon](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.19/Zid-AI-Studio_0.1.19_macOS-arm64-181e15e3.dmg) |
-| Intel Mac | [Download Zid AI Studio 0.1.19 for Intel Mac](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.19/Zid-AI-Studio_0.1.19_macOS-x64-181e15e3.dmg) |
-| Windows x64 (test build, not yet Authenticode-signed) | [Download Zid AI Studio 0.1.19 for Windows](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.19/Zid-AI-Studio_0.1.19_Windows-x64-181e15e3-UNSIGNED.exe) |
+| Mac with Apple Silicon (Apple M-series) | [Download Zid AI Studio 0.1.20 for Apple Silicon](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.20/Zid-AI-Studio_0.1.20_macOS-arm64-b2a20d8c.dmg) |
+| Intel Mac | [Download Zid AI Studio 0.1.20 for Intel Mac](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.20/Zid-AI-Studio_0.1.20_macOS-x64-b2a20d8c.dmg) |
+| Windows x64 (test build, not yet Authenticode-signed) | [Download Zid AI Studio 0.1.20 for Windows](https://github.com/zidsa/ai-studio-downloads/releases/download/v0.1.20/Zid-AI-Studio_0.1.20_Windows-x64-b2a20d8c-UNSIGNED.exe) |
 
 **Mac:** to install or update, quit any running copy of the app. Open the DMG, drag **Zid AI Studio** into **Applications**, and choose **Replace** if Finder asks. Then open it from **Applications**, not from the disk image. To check your Mac type, open **Apple menu → About This Mac** and look for **Chip** or **Processor**.
 
@@ -16,4 +16,4 @@ Both Mac installers are signed with Zid’s Developer ID and notarized by Apple.
 
 You need a Zid store account and a signed-in Claude Code or Codex account to use the assistant.
 
-[0.1.19 release notes and checksums](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.19) · [All releases](https://github.com/zidsa/ai-studio-downloads/releases) · [Previous version (0.1.18)](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.18)
+[0.1.20 release notes and checksums](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.20) · [All releases](https://github.com/zidsa/ai-studio-downloads/releases) · [Previous version (0.1.18)](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.18)
