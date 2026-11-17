@@ -16,4 +16,4 @@ Both Mac installers are signed with Zid’s Developer ID and notarized by Apple.
 
 You need a Zid store account and a signed-in Claude Code or Codex account to use the assistant.
 
-[0.1.20 release notes and checksums](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.20) · [All releases](https://github.com/zidsa/ai-studio-downloads/releases) · [Previous version (0.1.18)](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.18)
+[0.1.20 release notes and checksums](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.20) · [All releases](https://github.com/zidsa/ai-studio-downloads/releases) · [Previous version (0.1.19)](https://github.com/zidsa/ai-studio-downloads/releases/tag/v0.1.19)
